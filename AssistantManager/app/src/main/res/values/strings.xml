@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Assistant Manager</string>
+    <string name="add_employee_button">Add Employee</string>
+</resources>
